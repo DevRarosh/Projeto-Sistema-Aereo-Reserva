@@ -25,7 +25,7 @@ Para compilar e executar o programa, siga os passos abaixo:
 
 2. **Compile o programa:**
    ```bash
-   g++ -o sistema_reserva sistema_reserva.cpp
+   g++ -o sistema_reserva SistemaAereoReserva.cpp
    ```
 
 3. **Execute o programa:**
